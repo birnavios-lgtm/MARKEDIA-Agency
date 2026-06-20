@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MARKEDIA Agency",
+  "description": "Site Web officiel de MARKEDIA Agency, agence leader en Marketing Digital à Béni Mellal, Maroc. Découvrez nos services, calculez votre ROI marketing, évaluez votre présence en ligne et testez notre générateur de publicité IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
